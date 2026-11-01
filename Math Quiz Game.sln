@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37827.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Math Quiz Game", "Math Quiz Game\Math Quiz Game.vcxproj", "{55353C3B-203C-4770-B977-D94B7E3E09FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55353C3B-203C-4770-B977-D94B7E3E09FC}.Debug|x64.ActiveCfg = Debug|x64
+		{55353C3B-203C-4770-B977-D94B7E3E09FC}.Debug|x64.Build.0 = Debug|x64
+		{55353C3B-203C-4770-B977-D94B7E3E09FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{55353C3B-203C-4770-B977-D94B7E3E09FC}.Debug|x86.Build.0 = Debug|Win32
+		{55353C3B-203C-4770-B977-D94B7E3E09FC}.Release|x64.ActiveCfg = Release|x64
+		{55353C3B-203C-4770-B977-D94B7E3E09FC}.Release|x64.Build.0 = Release|x64
+		{55353C3B-203C-4770-B977-D94B7E3E09FC}.Release|x86.ActiveCfg = Release|Win32
+		{55353C3B-203C-4770-B977-D94B7E3E09FC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {085FD434-AB67-46F5-9666-2C650E621431}
+	EndGlobalSection
+EndGlobal
